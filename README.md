@@ -7,7 +7,7 @@
 <p align="center">
   A clean, beginner-friendly data platform tracking contact entry arrays without relying on complex external databases.
   <br />
-  <a href="C:\Users\parag\OneDrive\Pictures\Screenshots\Screenshot 2026-06-22 194505.png""><strong>Watch Demo »</strong></a>
+  <a href="C:\Users\parag\OneDrive\Pictures\Screenshots\Screenshot 2026-06-22 194505.png"><strong>Watch Demo »</strong></a>
   <br />
   <br />
   <a href="https://github.com/attardekhushi78-cpu/UnProf">Explore Codebase</a>

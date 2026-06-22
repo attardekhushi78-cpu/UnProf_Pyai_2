@@ -66,5 +66,12 @@ Because this system runs entirely on foundational packages built natively into P
 ### Installation
 
 1. Clone the repository workspace:
-   ```bash
+   
    git clone [https://github.com/github_username/unprof.git](https://github.com/github_username/unprof.git)
+
+
+
+
+
+
+UsageStepAction MatrixDescriptionTarget Component1Boot WorkspaceRun the core script file directly from your terminal shell interface.python contact_manager.py2Add Entry ProfileProvide a full name string, target digits, and category label to commit a record.Option 1: Add New Contact3Commit to StorageThe tool serializes arrays and syncs lists straight down into local file blocks.contacts.json File Generation4Filter DirectoryType name keywords, categories, or email strings to pull up matches instantly.Option 3: Search Contacts

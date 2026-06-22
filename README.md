@@ -7,7 +7,7 @@
 <p align="center">
   A clean, beginner-friendly data platform tracking contact entry arrays without relying on complex external databases.
   <br />
-  <a href="C:\Users\parag\OneDrive\Pictures\Screenshots\Screenshot 2026-06-22 194505.png"><strong>Watch Demo »</strong></a>
+  <a ![Application Screenshot Demo](screenshot.png)><strong>Watch Demo »</strong></a>
   <br />
   <br />
   <a href="https://github.com/attardekhushi78-cpu/UnProf">Explore Codebase</a>
@@ -54,24 +54,41 @@ This project was built as the primary practical task submission for Day 2 of the
 
 ---
 
-## Getting Started
 
-To initialize the database environment workspace and explore the repository locally, follow these simple setup steps.
+## 🚀 Installation & Getting Started
+
+Because this application relies strictly on standard foundational libraries bundled directly with native Python distribution environments, **no external third-party package installations (`pip install`) are required.**
 
 ### Prerequisites
+* **Python 3.8 or higher** installed on your operating system workspace.
 
-Because this system runs entirely on foundational packages built natively into Python distribution environments, **no external third-party software installations are required.**
-* Python 3.8 or higher installed on your computer.
+### Step-by-Step Local Setup
 
-### Installation
+Follow these simple terminal commands to get a local copy of the environment up and running on your machine:
 
-1. Clone the repository workspace:
+1. **Clone the Repository:**
+   Clone your assignment repository from GitHub down to your local directory machine:
+   
+   git clone [https://github.com/github_username/unprof.git](https://github.com/github_username/unprof.git)
+   
+2.Navigate into the Project Workspace:
+Move your active command-line context directly into the project root folder:
+
+
+cd unprof
+
+Verify Git Remote Configurations:
+Confirm that your local tracking setup points securely to your online origin URL:
+
+
+git remote -v
+
+Execute the Application:
+Launch the persistent CLI interface runner directly from your shell path:
+
+
+python contact_manager.py
+  
    
    git clone [https://github.com/github_username/unprof.git](https://github.com/github_username/unprof.git)
 
-
-
-
-
-
-UsageStepAction MatrixDescriptionTarget Component1Boot WorkspaceRun the core script file directly from your terminal shell interface.python contact_manager.py2Add Entry ProfileProvide a full name string, target digits, and category label to commit a record.Option 1: Add New Contact3Commit to StorageThe tool serializes arrays and syncs lists straight down into local file blocks.contacts.json File Generation4Filter DirectoryType name keywords, categories, or email strings to pull up matches instantly.Option 3: Search Contacts
